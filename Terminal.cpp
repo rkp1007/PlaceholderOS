@@ -50,7 +50,7 @@ nowhere near as complex as an Operating System such as Windows 11 & macOS.\n\r")
 	}
 	else if(CheckMatch(commandArray, verCommandArray))
 	{
-		PrintString("\n\rPlaceholderOS [version 0.2.1]");
+		PrintString("\n\rPlaceholderOS [version 0.2.2]");
 	}
 	else if(CheckMatch(commandArray, color0CommandArray))
 	{
