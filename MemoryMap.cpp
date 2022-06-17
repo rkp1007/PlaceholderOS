@@ -13,7 +13,7 @@
 
 //Libraries
 #include "PrintText.cpp"
-#include "Typedefs.h"
+#include "Typedefs.hpp"
 
 //Structure for memory regions
 struct MemoryMapEntry {
