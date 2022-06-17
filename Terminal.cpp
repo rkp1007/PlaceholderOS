@@ -272,5 +272,5 @@ void TerminalKeyboardHandler(uint8_t scanCode, uint8_t chr)
 void TerminalApp()
 {
 	MainKeyboardHandler = TerminalKeyboardHandler;
-	PrintString("PlaceholderOS [version 0.2.1]\n\r(c) Ryan Paradine. All Rights Reserved.\n\r> ");
+	PrintString("PlaceholderOS [version 0.2.2]\n\r(c) Ryan Paradine. All Rights Reserved.\n\r> ");
 }
