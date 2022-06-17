@@ -1,5 +1,5 @@
 //Libraries
-#include "Terminal.h"
+#include "Terminal.hpp"
 
 
 //The 'Restart()' function was written using Assembly, so it must be declared as an external
