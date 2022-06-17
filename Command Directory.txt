@@ -1,0 +1,32 @@
+*Command Dictionary*
+
+clear 		- Clears the terminal screen
+about 		- Gives a background on the development of this operating system
+restart 		- Restarts the computer
+debugkb 		- Debugging tool to grab keyboard scancodes
+help			- *WORK IN PROGRESS*
+ver			- Displays which version of PlaceholderOS is currently running
+info			- *WORK IN PROGRESS*
+color0 		- Changes font color to black
+color1 		- Changes font color to blue
+color2 		- Changes font color to green
+color3 		- Changes font color to cyan
+color4 		- Changes font color to red
+color5 		- Changes font color to magenta
+color6 		- Changes font color to brown
+color7 		- Changes font color to light gray
+color8 		- Changes font color to drark gray
+color9 		- Changes font color to light blue
+colora 		- Changes font color to light green
+colorb 		- Changes font color to light cyan
+colorc 		- Changes font color to light red
+colord		- Changes font color to light magenta
+colore 		- Changes font color to yellow
+colorf 		- Changes font color to white
+add			- *WORK IN PROGRESS*
+subtract		- *WORK IN PROGRESS*
+multiply		- *WORK IN PROGRESS*
+divide		- *WORK IN PROGRESS*
+
+
+Don't have many commands implemented as of right now, sorry about that.
