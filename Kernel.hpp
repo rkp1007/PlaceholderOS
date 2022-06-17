@@ -9,7 +9,7 @@
 //Libraries needed for 'Kernel.cpp'
 #include "PrintText.cpp"
 #include "MemoryMap.cpp"
-#include "Typedefs.h"
+#include "Typedefs.hpp"
 #include "IO.cpp"
 #include "IDT.cpp"
 #include "Terminal.cpp"

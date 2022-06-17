@@ -8,8 +8,8 @@
 
 //Libraries
 #include "MemoryMap.cpp"
-#include "PrintText.h"
-#include "Typedefs.h"
+#include "PrintText.hpp"
+#include "Typedefs.hpp"
 #include "IDT.cpp"
 
 
