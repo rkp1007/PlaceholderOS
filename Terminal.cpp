@@ -190,11 +190,14 @@ void StandardTerminalKeyboardHandler(uint8_t scanCode, uint8_t chr)
 		{
 		//Handles Backspace Key when pressed
 		case BACKSPACE:
-			SetCursorPosition(CursorPosition - 1);
-			PrintCharacter(' ', currentColor);
-			SetCursorPosition(CursorPosition - 1);
-			commandArray[commandArrayIndex] = (uint8_t)0x00;
-			commandArrayIndex--;
+			if(commandArrayIndex > 0)
+			{
+				SetCursorPosition(CursorPosition - 1);
+				PrintCharacter(' ', currentColor);
+				SetCursorPosition(CursorPosition - 1);
+				commandArray[commandArrayIndex] = (uint8_t)0x00;
+				commandArrayIndex--;
+			}
 			break;
 
 		//Handles Left Shift Key when pressed
