@@ -6,7 +6,7 @@
 #pragma once
 
 //Libraries
-#include "Typedefs.h"
+#include "Typedefs.hpp"
 #include "IO.cpp" 
 #include "PrintText.cpp"
 
