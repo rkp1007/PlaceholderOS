@@ -8,8 +8,8 @@
 
 //Libraries
 #include "IO.cpp" 
-#include "Typedefs.h"
-#include "PrintText.h"
+#include "Typedefs.hpp"
+#include "PrintText.hpp"
 
 
 //Keyboard Scan Codes for a U.S. QWERTY keyboard
