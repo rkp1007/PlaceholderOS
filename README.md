@@ -16,3 +16,11 @@ written for the operating system without the author directly adding it to the so
 - Click Ok and then go to 'Keyboard & Mouse'
 - Set the 'Keyboard serial delay' to 5 and click Ok
 - Save the configuration and open it to use the operating system
+
+
+## Upcoming Plans
+
+- Modify the environment so it is more organized
+- Figure out how to interface with the Time-Stamp counter to make delays
+- Find a better way to interface with the PC speaker
+- Add some arithmetic commands to the terminal
