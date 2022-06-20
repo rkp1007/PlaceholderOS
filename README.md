@@ -24,3 +24,5 @@ written for the operating system without the author directly adding it to the so
 - Figure out how to interface with the Time-Stamp counter to make delays
 - Find a better way to interface with the PC speaker
 - Add some arithmetic commands to the terminal
+- Make a universal makefile for anyone who wants to compile
+- Reorganize code in some files since I was originally put under a time constraint to finish this project
